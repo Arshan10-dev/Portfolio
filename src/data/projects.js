@@ -3,7 +3,7 @@
 //   title, description, image (URL or local), tags, github, live
 import titanaiImg from "../assets/titanai.png";
 import smsImg from "../assets/Sms.png";
-import cncImg from "src/assets/cnc.png";
+import cncImg from "../assets/cnc.png";
 
 export const projects = [
   {
