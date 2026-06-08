@@ -24,7 +24,7 @@ export const projects = [
     tags: ["React", "Node.js", "CRUD API", "MongoDB", "DaisyUI", "Tailwind CSS"],
     github: "https://github.com/Arshan10-dev/student-management-system",
     live: "https://student-management-system-frontend-5ts5.onrender.com",
-    featured: true,
+    featured: false,
   },
   {
     id: 3,
