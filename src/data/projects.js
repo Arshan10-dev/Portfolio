@@ -29,7 +29,7 @@ export const projects = [
   {
     id: 3,
     title: "Nutri IQ",
-    description: "NutriIQ is a modern nutrition and calorie intelligence platform that calculates daily calorie needs, BMI, macronutrients, water intake, and fitness goals in real time using scientifically based formulas.",
+    description: "Nutri IQ is a modern nutrition and calorie intelligence platform that calculates daily calorie needs, BMI, macronutrients, water intake, and fitness goals in real time using scientifically based formulas.",
     image: cncImg,
     tags: ["React.js", "Vite", "Tailwind CSS", "Framer Motion", "Recharts", "Lucide React"],
     github: "https://github.com/Arshan10-dev/NutriIQ",
