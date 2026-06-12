@@ -4,6 +4,7 @@
 import titanaiImg from "../assets/titanai.png";
 import smsImg from "../assets/Sms.png";
 import cncImg from "../assets/cnc.png";
+import airdImg from "../assets/aird.png";
 
 export const projects = [
   {
@@ -35,5 +36,15 @@ export const projects = [
     github: "https://github.com/Arshan10-dev/NutriIQ",
     live: "https://nutriiq-03gf.onrender.com",
     featured: true,
+  },
+  {
+    id: 4,
+    title: "Air Drawing",
+    description: "A futuristic webcam-based air drawing app where you draw in mid-air using hand gestures.",
+    image: airdImg,
+    tags: ["HTML", "CSS", "JavaScript", "MediaPipe Hand Landmarker", "HTML5 Canvas"],
+    github: "https://github.com/Arshan10-dev/Air-Drawing",
+    live: "https://air-drawing-kpaq.onrender.com",
+    featured: false,
   },
 ];
