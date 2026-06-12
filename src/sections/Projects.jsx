@@ -9,7 +9,7 @@ import ProjectCard from "../components/ProjectCard";
 import { projects } from "../data/projects";
 
 // Filter tabs — add more categories if needed
-const FILTERS = ["All", "Featured", "React", "Python", "Crud API"];
+const FILTERS = ["All", "Featured", "React", "Python", "Crud API", "JavaScript"];
 
 const Projects = () => {
   const [activeFilter, setActiveFilter] = useState("All");
