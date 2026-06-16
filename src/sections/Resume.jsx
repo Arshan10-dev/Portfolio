@@ -25,7 +25,7 @@ const EXPERIENCE = [
     period: "2025 - Present",
     description:
       "Developed Android applications using React Native and Expo, focusing on UI design, API integration and performance optimization.",
-    tags: ["React Native", "Expo Go", "TypeScript"]
+    tags: ["React Native", "Expo Go", "TypeScript", "Python"]
   },
   {
     role: "Computer Networking",
