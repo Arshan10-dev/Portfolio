@@ -28,13 +28,13 @@ const EXPERIENCE = [
     tags: ["React Native", "Expo Go", "TypeScript"]
   },
   {
-    role: "Cyber Security",
+    role: "Computer Networking",
     company: "Independent Learning",
     location: "Remote",
     period: "2025 - Present",
     description:
-      "Learning web security fundamentals, vulnerability assessment, ethical hacking concepts and security best practices.",
-    tags: ["Cyber Security", "Ethical Hacking", "Networking"]
+      "Exploring networking fundamentals including routing, switching, network protocols, and troubleshooting using Cisco Packet Tracer and practical simulations.",
+    tags: ["Networking", "Cisco Packet Tracer", "Network Protocols", "WireShark"]
   },
 ];
 
@@ -49,12 +49,12 @@ const EDUCATION = [
       "Currently in the Final Year",
   },
   {
-    degree: "Cyber Security & Ethical Hacking",
+    degree: "Computer Networking",
     institution: "Cisco Networking Academy",
     location: "Online",
     period: "2025-Present",
     description:
-      "Intensive 12-week program covering Ethical Hacking , Penetration Testing , Vulnarability Scanning , IoT Security.",
+      "Learning networking concepts including routing, switching, IP addressing, network protocols and troubleshooting through practical labs.",
   },
 ];
 

@@ -47,5 +47,5 @@ export const skillCategories = [
 // Tech stack icons for the floating pills in hero
 export const techPills = [
   "React", "TypeScript", "Node.js", "Python", "Java",
-  "Postman", "WireShark", "Render", "Tailwind CSS", "Cisco Packe Tracer",
+  "Postman", "WireShark", "Render", "Tailwind CSS", "Cisco Packet Tracer",
 ];

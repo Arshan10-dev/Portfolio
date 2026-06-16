@@ -29,7 +29,7 @@ and working on personal projects that help me grow as a developer.`,
   rotatingRoles: [
     "Mobile App Development",
     "Full Stack Development",
-    "Cyber Security",
+    "Computer Networks",
     "UI / UX Design",
     "Open Source",
     "AI Applications",

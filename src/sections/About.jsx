@@ -119,10 +119,10 @@ const About = () => {
                 ⚡
               </div>
               <div>
-                <p className="text-white font-medium text-sm">Currently building in public</p>
+                <p className="text-white font-medium text-sm">Always Learning & Building</p>
                 {/* Replace with your current project/focus */}
                 <p className="text-muted text-xs mt-0.5">
-                  Working on an AI-powered design-to-code tool
+                  Actively building mobile and web applications while exploring modern technologies and best practices.
                 </p>
               </div>
             </motion.div>
