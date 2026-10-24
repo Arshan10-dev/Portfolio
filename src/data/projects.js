@@ -5,6 +5,7 @@ import titanaiImg from "../assets/titanai.png";
 import smsImg from "../assets/Sms.png";
 import cncImg from "../assets/cnc.png";
 import airdImg from "../assets/aird.png";
+import skillsImg from "../assets/skills.png";
 
 export const projects = [
   {
@@ -46,5 +47,15 @@ export const projects = [
     github: "https://github.com/Arshan10-dev/Air-Drawing",
     live: "https://air-drawing-kpaq.onrender.com",
     featured: false,
+  },
+  {
+    id: 5,
+    title: "Skill Swap",
+    description: "A full-stack skill exchange platform where users can teach skills, learn from others, discover compatible learning partners, send swap requests, and manage sessions and messages.",
+    image: skillsImg,
+    tags: ["React", "Java", "Spring Boot", "JWT Authentication", "MySQL", "Bootstrap"],
+    github: "https://github.com/Arshan10-dev/Skill-Swap",
+    live: "https://skill-swap-frontend-5bqx.onrender.com",
+    featured: true,
   },
 ];
