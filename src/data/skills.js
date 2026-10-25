@@ -44,6 +44,7 @@ export const skillCategories = [
       { name: "Cisco Packet Tracer", level: 100, icon: "ciscopackettracer" },
       { name: "Expo Go", level: 100, icon: "expo" },
       { name: "Postman", level: 100, icon: "postman" },
+      { name: "XAMPP", level: 100, icon: "xampp" }, 
       { name: "MS Office", level: 100, icon: "msoffice" },
     ],
   },
