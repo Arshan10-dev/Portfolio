@@ -13,7 +13,7 @@ export const skillCategories = [
       { name: "Tailwind CSS", level: 100, icon: "tailwind" },
       { name: "JavaScript", level: 100, icon: "js" },
       { name: "Daisy UI", level: 100, icon: "daisyui" },
-      { name: "TypeScript", level: 100, icon: "ts" },
+      { name: "TypeScript", level: 100, icon: "ts" }, 
     ],
   },
   {
@@ -23,10 +23,10 @@ export const skillCategories = [
     skills: [
       { name: "Node.js / Express.js", level: 100, icon: "node" },
       { name: "Python", level: 100, icon: "python" },
-      { name: "Java Servlets", level: 100, icon: "java" },
+      { name: "Java", level: 100, icon: "java" },
       { name: "MongoDB", level: 100, icon: "mongo" },
-      { name: "Postman", level: 100, icon: "postman" },
       { name: "REST APIs", level: 100, icon: "api" },
+      { name: "MySQL", level: 100, icon: "mysql"},
     ],
   },
   {
@@ -39,6 +39,7 @@ export const skillCategories = [
       { name: "Git / GitHub", level: 100, icon: "git" },
       { name: "Cisco Packet Tracer", level: 100, icon: "ciscopackettracer" },
       { name: "Expo Go", level: 100, icon: "expo" },
+      { name: "Postman", level: 100, icon: "postman" },
       { name: "MS Office", level: 100, icon: "msoffice" },
     ],
   },
