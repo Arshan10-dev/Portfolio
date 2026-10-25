@@ -14,6 +14,7 @@ export const skillCategories = [
       { name: "JavaScript", level: 100, icon: "js" },
       { name: "Daisy UI", level: 100, icon: "daisyui" },
       { name: "TypeScript", level: 100, icon: "ts" }, 
+      { name: "Axios", level: 100, icon: "ax" }, 
     ],
   },
   {
@@ -27,6 +28,8 @@ export const skillCategories = [
       { name: "MongoDB", level: 100, icon: "mongo" },
       { name: "REST APIs", level: 100, icon: "api" },
       { name: "MySQL", level: 100, icon: "mysql"},
+      { name: "SpringBoot", level: 100, icon: "sp" }, 
+      { name: "Maven", level: 100, icon: "mvn" }, 
     ],
   },
   {
